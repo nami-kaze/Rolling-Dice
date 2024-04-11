@@ -4,5 +4,5 @@ Welcome to the Rolling Dice Game! This simple web-based game allows users to rol
 
 # How to start
 In terminal:
-Run- npm install
-Run- npm run dev
+Run- 1. npm install 
+2. npm run dev
